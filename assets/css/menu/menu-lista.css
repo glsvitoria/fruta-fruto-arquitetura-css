@@ -1,0 +1,7 @@
+@charset "UTF-8";
+
+.menu__lista {
+   display: flex;
+   align-items: center;
+   justify-content: space-between;
+}
