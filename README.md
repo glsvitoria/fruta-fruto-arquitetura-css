@@ -1,16 +1,4 @@
-# arquitetura-css
-curso de arquitetura da Alura. 
-
-utilização do BEM - BLOCK ELEMENT MODIFIER - BLOCO ELEMENTO MODIFICADOR
-bloco
-
-bloco__elemento
-
-bloco--modificador
-
-bloco__elemento--modificador
-
-## Fruta e Fruto - Arquitetura CSS
+# Fruta e Fruto - Arquitetura CSS
 <p align="center">
   <img src="https://img.icons8.com/plasticine/2x/circled-play.png" width="200px" height="200px"/></p>
 <p align="center">
