@@ -35,7 +35,7 @@
  2. Não apresenta nenhuma funcionalidade a mais, apenas utilizado para o exercício de uma nova forma de arquitetar os estilos CSS no projeto
 
 ### Screenshot
-![](./public/images/Screenshot.PNG)
+![](./public/images/Screenshot.png)
 ### Links
 - Site hospedado: [Fruta e Fruto](link)
 
